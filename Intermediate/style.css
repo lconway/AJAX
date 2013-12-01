@@ -1,0 +1,25 @@
+*{
+/*	margin: 0px;
+	padding: 0px;
+*/	font-family: "Comic Sans MS";
+}
+h1 {
+	margin-left: 30px;
+}
+#wrapper {
+/*	background-color: #F3FFB6;
+	border: 2px solid black;
+*/	margin: 0 auto;
+	width: 860px;	
+}
+#results {
+	background-color: #F3FFB6;
+	border: 2px solid black;	
+}
+#results table {
+	border: 1px solid black;
+}
+.clear {
+	clear: both;
+}
+
